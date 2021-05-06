@@ -19,3 +19,8 @@
 | Multiplex 8 mm             |   20 €   |   0,20 €     | 
 | Multiplex 10 mm            |   24 €   |   0,24 €     | 
 | HDF,MDF 3 mm               |   6 €    |   0,06 €     | 
+| POM 1.5 mm                 |   27 €   |   0,27 €     | 
+| POM 3 mm                   |   55 €   |   0,55 €     | 
+| POM 5 mm                   |   90 €   |   0,90 €     | 
+| POM 10 mm                  |  140  €  |   1,40 €     | 
+
