@@ -3,4 +3,4 @@ values = [0.13, 0.23, 0.25, 0.28, 0.32, 0.43, 0.48, 0.26, 0.39, 0.55, 0.68, 0.80
 for value in values:
     for size in sizes:
         size_value = size / 100
-        print((size_value*value)*1.2+(size_value*.05)
+        print((size_value*value)*1.2+(size_value*.05))
